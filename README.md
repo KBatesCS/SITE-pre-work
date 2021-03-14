@@ -35,7 +35,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:(note that in the video the buttons don't always appear to light up when clicked since I had to reduce the frame count to 5 frames per second to convert it to a gif)
-![](https://imgur.com/n3yl6y3.gif)
+![](https://imgur.com/vnB9jiZ.gif)
 <blockquote class="imgur-embed-pub" lang="en" data-id="n3yl6y3"><a href="https://imgur.com/n3yl6y3">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
