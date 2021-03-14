@@ -36,7 +36,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:(note that in the video the buttons don't always appear to light up when clicked since I had to reduce the frame count to 5 frames per second to convert it to a gif)
 ![](https://imgur.com/n3yl6y3.gif)
-<img src='https://imgur.com/n3yl6y3.gif' width=250><br>
+[Imgur](https://imgur.com/n3yl6y3)
 
 
 ## Reflection Questions
