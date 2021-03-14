@@ -6,7 +6,7 @@ Submitted by: **Kevin Bates**
 
 Time spent: **5** hours spent in total
 
-Link to project: https://glitch.com/edit/#!/abrupt-mercury-grip?path=README.md%3A1%3A0
+Link to project: https://glitch.com/edit/#!/abrupt-mercury-grip
 
 ## Required Functionality
 
